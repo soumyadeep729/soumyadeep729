@@ -1,13 +1,40 @@
-<!-- Profile Banner -->
+<!-- ===== Custom SVG Profile Banner ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Soumyadeep%20Pal&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+<svg width="100%" height="180" viewBox="0 0 1200 180" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#020617"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="180" fill="url(#bgGradient)" rx="12"/>
+
+  <!-- Accent Line -->
+  <line x1="80" y1="120" x2="1120" y2="120" stroke="#38bdf8" stroke-width="2" opacity="0.6"/>
+
+  <!-- Name -->
+  <text x="600" y="85"
+        text-anchor="middle"
+        font-size="44"
+        font-family="Segoe UI, Inter, system-ui"
+        fill="#e5e7eb"
+        font-weight="600">
+    Soumyadeep Pal
+  </text>
+
+  <!-- Subtitle -->
+  <text x="600" y="115"
+        text-anchor="middle"
+        font-size="18"
+        font-family="Segoe UI, Inter, system-ui"
+        fill="#94a3b8">
+    Backend • Full Stack • System Design
+  </text>
+</svg>
 </p>
 
-<h3 align="center">🚀 Full Stack Developer | CSE Undergraduate | Backend Enthusiast</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;Node.js+%7C+SQL+%7C+JavaScript;Clean+Code+%26+Scalable+Systems;Always+Learning+New+Tech" />
-</p>
 
 ---
 
