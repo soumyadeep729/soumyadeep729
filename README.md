@@ -7,15 +7,16 @@
 
 <!-- 2. Role / Title -->
 <h3 align="center">
-  🚀 Full Stack Developer | CSE Undergraduate | Backend Enthusiast
+  SOFTWARE DEVELOPER | CSE UNDERGRADUATE
 </h3>
 
 <!-- 3. Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=520&lines=Full+Stack+Web+Developer;Clean+Code+%26+Scalable+Systems;Always+Learning+New+Tech" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=520&lines=Software+Developer;Clean+Code+%26+Scalable+Systems;Always+Learning+New+Tech" />
 </p>
 
 ---
+
 
 
 
