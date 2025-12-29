@@ -7,12 +7,15 @@
 
 - 🎓 **B.Tech in Computer Science & Engineering** (2022–2026)  
 - 🏫 Techno India University, Kolkata  
-- 💻 Passionate about **Backend Development & System Design**  
-- 🔐 Interested in **Secure, Scalable Web Applications**  
+- 💻 Experienced in solving real-world problems through practical projects
+- 🔐 Focused on creating **scalable, secure, and well-structured applications ** 
 - 🚀 Constantly learning & building real-world projects  
 
 📫 **Email:** soumyadeeppal7529@gmail.com  
 
+
+  
+ 
 ---
 
 ## 🛠️ Tech Stack  
