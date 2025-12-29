@@ -8,7 +8,7 @@
 - 🎓 **B.Tech in Computer Science & Engineering** (2022–2026)  
 - 🏫 Techno India University, Kolkata  
 - 💻 Experienced in solving real-world problems through practical projects
-- 🔐 Focused on creating **scalable, secure, and well-structured applications ** 
+- 🔐 Focused on creating **scalable, secure, and well-structured applications** 
 - 🚀 Constantly learning & building real-world projects  
 
 📫 **Email:** soumyadeeppal7529@gmail.com  
