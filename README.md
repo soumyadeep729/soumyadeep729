@@ -1,113 +1,142 @@
-# 👋 Hi, I'm Soumyadeep Pal  
+<!-- Profile Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Soumyadeep%20Pal&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-🎓 **B.Tech in Computer Science & Engineering**  
-📍 Techno India University, Kolkata (2022 – 2026)  
-💻 Full-Stack Web Developer | Backend Enthusiast  
-📫 Reach me at: **soumyadeeppal7529@gmail.com**
+<h3 align="center">🚀 Full Stack Developer | CSE Undergraduate | Backend Enthusiast</h3>
 
----
-
-## 🚀 About Me  
-
-I am a Computer Science undergraduate with strong interests in **web development, backend systems, and database-driven applications**.  
-I enjoy building **secure, scalable, and user-friendly applications** using modern technologies.  
-I am a fast learner, team player, and always eager to explore new tools and frameworks.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;Node.js+%7C+SQL+%7C+JavaScript;Clean+Code+%26+Scalable+Systems;Always+Learning+New+Tech" />
+</p>
 
 ---
 
-## 🛠️ Technical Skills  
+## 👨‍💻 About Me  
+
+<img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
+
+- 🎓 **B.Tech in Computer Science & Engineering** (2022–2026)  
+- 🏫 Techno India University, Kolkata  
+- 💻 Passionate about **Backend Development & System Design**  
+- 🔐 Interested in **Secure, Scalable Web Applications**  
+- 🚀 Constantly learning & building real-world projects  
+
+📫 **Email:** soumyadeeppal7529@gmail.com  
+
+---
+
+## 🛠️ Tech Stack  
 
 ### 💻 Programming Languages  
-- Python  
-- C / C++  
-- JavaScript  
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,js" />
+</p>
 
-### 🌐 Web Technologies  
-- HTML5  
-- CSS3  
-- JavaScript  
-- Node.js  
+### 🌐 Web & Backend  
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,nodejs,express" />
+</p>
 
 ### 🗄️ Databases  
-- SQL  
-- MySQL  
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
 
-### ⚙️ Developer Tools  
-- Git  
-- GitHub  
-- Linux  
-
-### 🤝 Soft Skills  
-- Teamwork & Collaboration  
-- Problem Solving  
-- Leadership  
-- Time Management  
-- Adaptability  
+### ⚙️ Tools & Platforms  
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux" />
+</p>
 
 ---
 
-## 📌 Projects  
+## 📌 Featured Projects  
 
 ### 💰 Expense Monitoring System  
-**Tech Stack:** HTML, CSS, JavaScript, Node.js, SQL  
+🚀 **Tech:** HTML, CSS, JavaScript, Node.js, SQL  
 
-- Developed a web application to track daily expenses  
-- Built RESTful APIs for adding and viewing expenses  
-- Implemented secure user authentication  
-- Designed a dashboard with charts to visualize spending patterns  
+- Secure login system  
+- RESTful APIs for expense management  
+- Interactive dashboard with charts  
+- Clean UI & structured backend  
 
 ---
 
 ### 📊 Habit Tracker  
-**Tech Stack:** Node.js, SQL, JavaScript  
+🚀 **Tech:** Node.js, SQL  
 
-- Implemented secure login/signup system  
-- Designed SQL database for habit tracking and streak management  
-- Built REST APIs for habit CRUD operations  
-- Created interactive dashboards to visualize habit progress  
+- Authentication (Login / Signup)  
+- Habit streak tracking  
+- SQL-based data persistence  
+- Visual dashboards for progress  
 
 ---
 
 ### 🔗 URL Shortener  
-**Tech Stack:** Node.js, SQL  
+🚀 **Tech:** Node.js, SQL  
 
-- Designed database schema for original and shortened URLs  
-- Implemented authentication and REST APIs  
-- Built analytics dashboard for tracking clicks and usage statistics  
-
----
-
-## 🏆 Experience & Achievements  
-
-### 🔐 EduSkills (April 2024 – June 2024)  
-- Assisted in monitoring network traffic for security threats  
-- Analyzed logs and incident reports  
-- Participated in security awareness programs to reduce phishing risks  
+- Short URL generation  
+- Click analytics dashboard  
+- Secure user-based URL management  
 
 ---
 
-### 🌐 Main Flow Service & Technologies Pvt. Ltd. (May 2025 – June 2025)  
-- Worked on full-stack web development projects  
-- Built RESTful APIs using Node.js  
-- Improved backend data flow efficiency  
-- Used MySQL for secure data storage and retrieval  
+## 🏆 Experience  
+
+### 🔐 EduSkills (Apr 2024 – Jun 2024)  
+- Network traffic monitoring  
+- Log analysis for security threats  
+- Security awareness & phishing prevention  
+
+### 🌐 Main Flow Service & Technologies Pvt. Ltd. (May 2025 – Jun 2025)  
+- Full-stack web development  
+- REST API design with Node.js  
+- MySQL database integration  
+- Performance optimization  
 
 ---
 
 ## 🌍 Languages  
 
-- English  
-- Hindi  
-- Bengali  
+- 🇬🇧 English  
+- 🇮🇳 Hindi  
+- 🇮🇳 Bengali  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=soumyadeep729&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soumyadeep729&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumyadeep729&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
 ## 🔗 Connect With Me  
 
-- 💼 LinkedIn: [linkedin.com/in/soumyadeep729](https://www.linkedin.com/in/soumyadeep729/)  
-- 💻 GitHub: [github.com/soumyadeep729](https://github.com/soumyadeep729)  
-- 📧 Email: **soumyadeeppal7529@gmail.com**
+<p align="center">
+  <a href="https://www.linkedin.com/in/soumyadeep729/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:soumyadeeppal7529@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/soumyadeep729">
+    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-⭐ *If you like my work, feel free to star my repositories and connect with me!*  
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer" />
+</p>
+
+⭐ **If you like my work, consider starring my repositories!**
