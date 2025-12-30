@@ -68,53 +68,6 @@
 
 ---
 
-## 📌 Featured Projects  
-
-### 💰 Expense Monitoring System  
-      
-
-- Built an Expense Monitoring System web app using HTML, CSS, JavaScript, Node.js, and SQL 
-- Created REST APIs for adding and viewing expenses  
-- Implemented user login and secure data storage  
-- Designed a dashboard with charts to show spending  
-
----
-
-### 📊 Habit Tracker  
-  
-
-- Implemented secure user authentication (login/signup) and RESTful APIs for habit management
-- Designed a SQL database to log habits, track streaks, and store user data
-- Created an interactive dashboard with charts to visualize habit progress
-
----
-
-### 🔗 URL Shortener  
- 
-- Designed a SQL database to store and track original and short URLs
-- Implemented user authentication and RESTful APIs for link management
-- Created an analytics dashboard for link usage and click statistics
-
-
-
-
----
-
-## 🏆 Experience  
-
-### 🔐 EduSkills (Apr 2024 – Jun 2024)  
-- Assisted in monitoring network traffic to identify potential security threats and vulnerabilities.
-- Participated in security awareness training sessions for users to reduce phishing risks.
-- Analyzed logs and incident reports to detect and prevent future breaches.
- 
-
-### 🌐 Main Flow Service & Technologies Pvt. Ltd. (May 2025 – Jun 2025)  
-- Worked on both frontend and backend development of web applications using technologies like HTML, CSS,
-JavaScript and Node.js
-- Designed and implemented RESTful APIs with Node.js, improving data flow efficiency.
-- Worked with databases like MySQL for storing and retrieving user data securely.
-
----
 
 ## 🌍 Languages  
 
@@ -122,22 +75,6 @@ JavaScript and Node.js
 - Hindi  
 - Bengali  
 
----
-
-## 📊 GitHub Stats  
-
-
-
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=soumyadeep729&show_icons=true&theme=tokyonight&cache_seconds=1800" /> 
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=soumyadeep729&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumyadeep729&layout=compact&theme=tokyonight&cache_seconds=1800" />
-</p>
 
 
 ---
