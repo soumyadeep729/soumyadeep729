@@ -71,31 +71,32 @@
 ## 📌 Featured Projects  
 
 ### 💰 Expense Monitoring System  
-🚀 **Tech:** HTML, CSS, JavaScript, Node.js, SQL  
+      
 
-- Secure login system  
-- RESTful APIs for expense management  
-- Interactive dashboard with charts  
-- Clean UI & structured backend  
+- Built an Expense Monitoring System web app using HTML, CSS, JavaScript, Node.js, and SQL 
+- Created REST APIs for adding and viewing expenses  
+- Implemented user login and secure data storage  
+- Designed a dashboard with charts to show spending  
 
 ---
 
 ### 📊 Habit Tracker  
-🚀 **Tech:** Node.js, SQL  
+  
 
-- Authentication (Login / Signup)  
-- Habit streak tracking  
-- SQL-based data persistence  
-- Visual dashboards for progress  
+- Implemented secure user authentication (login/signup) and RESTful APIs for habit management
+- Designed a SQL database to log habits, track streaks, and store user data
+- Created an interactive dashboard with charts to visualize habit progress
 
 ---
 
 ### 🔗 URL Shortener  
-🚀 **Tech:** Node.js, SQL  
+ 
+- Designed a SQL database to store and track original and short URLs
+- Implemented user authentication and RESTful APIs for link management
+- Created an analytics dashboard for link usage and click statistics
 
-- Short URL generation  
-- Click analytics dashboard  
-- Secure user-based URL management  
+
+
 
 ---
 
