@@ -14,6 +14,10 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=520&lines=Software+Developer;Clean+Code+%26+Scalable+Systems;Always+Learning+New+Tech" />
 </p>
+<!-- 4. Profile Views Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=soumyadeep729&label=Profile%20Views&color=38BDF8&style=flat" alt="profile views" />
+</p>
 
 ---
 
