@@ -103,15 +103,16 @@
 ## 🏆 Experience  
 
 ### 🔐 EduSkills (Apr 2024 – Jun 2024)  
-- Network traffic monitoring  
-- Log analysis for security threats  
-- Security awareness & phishing prevention  
+- Assisted in monitoring network traffic to identify potential security threats and vulnerabilities.
+- Participated in security awareness training sessions for users to reduce phishing risks.
+- Analyzed logs and incident reports to detect and prevent future breaches.
+ 
 
 ### 🌐 Main Flow Service & Technologies Pvt. Ltd. (May 2025 – Jun 2025)  
-- Full-stack web development  
-- REST API design with Node.js  
-- MySQL database integration  
-- Performance optimization  
+- Worked on both frontend and backend development of web applications using technologies like HTML, CSS,
+JavaScript and Node.js
+- Designed and implemented RESTful APIs with Node.js, improving data flow efficiency.
+- Worked with databases like MySQL for storing and retrieving user data securely.
 
 ---
 
