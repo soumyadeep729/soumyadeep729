@@ -2,8 +2,10 @@
 
 <!-- 1. Profile Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Soumyadeep%20Pal&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:89CFF0,50:B3E5FC,100:E3F2FD&height=200&section=header&text=Soumyadeep%20Pal&fontSize=40&fontColor=0f2027&animation=fadeIn" />
 </p>
+
+
 
 <!-- 2. Role / Title -->
 <h3 align="center">
