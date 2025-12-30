@@ -47,12 +47,12 @@
 
 ### 💻 Programming Languages  
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,js" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp" />
 </p>
 
 ### 🌐 Web & Backend  
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=html,css,nodejs,js" />
 </p>
 
 ### 🗄️ Databases  
@@ -62,8 +62,9 @@
 
 ### ⚙️ Tools & Platforms  
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
 </p>
+
 
 ---
 
