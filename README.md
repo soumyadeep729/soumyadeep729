@@ -7,14 +7,19 @@
 
 
 
+
+
+
 <!-- 2. Role / Title -->
 <h3 align="center">
-  SOFTWARE DEVELOPER | CSE UNDERGRADUATE
+  <strong>Software Developer | Computer Science (UG)</strong>
 </h3>
+
+
 
 <!-- 3. Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=520&lines=Software+Developer;Clean+Code+%26+Scalable+Systems;Always+Learning+New+Tech" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=520&lines=Always+Learning+New+Tech;Clean+Code+%26+Scalable+Systems;Crafting+Clean+Code" />
 </p>
 <!-- 4. Profile Views Counter -->
 <p align="center">
