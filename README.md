@@ -155,7 +155,8 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:3a7bd5&height=120&section=footer" />
 </p>
+
 
 ⭐ **If you like my work, consider starring my repositories!**
