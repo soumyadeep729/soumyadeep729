@@ -116,9 +116,9 @@
 
 ## 🌍 Languages  
 
-- 🇬🇧 English  
-- 🇮🇳 Hindi  
-- 🇮🇳 Bengali  
+- English  
+- Hindi  
+- Bengali  
 
 ---
 
