@@ -67,8 +67,9 @@
 
 ### ⚙️ Tools & Platforms  
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,powerbi" />
 </p>
+
 
 
 ---
