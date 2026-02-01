@@ -66,9 +66,15 @@
 </p>
 
 ### ⚙️ Tools & Platforms  
+
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,powerbi" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="48" style="vertical-align:middle; margin-left:6px;" />
 </p>
+
+
+
+
 
 
 
